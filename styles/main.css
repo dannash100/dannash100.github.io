@@ -1,14 +1,12 @@
 p {
     font-family: Arial, Helvetica, sans-serif;
 }
-
 h1 {
     Color: black 
 }
-
 ul {
-    list-style-type: circle;
-    
+    list-style-type: circle;  
+   
 }
 a:hover {
     color: darkgoldenrod
@@ -16,3 +14,7 @@ a:hover {
 a:link {
     text-decoration: none
 }
+h2 {
+    margin-left: 20px;
+}
+
