@@ -3,5 +3,16 @@ p {
 }
 
 h1 {
-    Color: Brown 
+    Color: black 
+}
+
+ul {
+    list-style-type: circle;
+    
+}
+a:hover {
+    color: darkgoldenrod
+}
+a:link {
+    text-decoration: none
 }
