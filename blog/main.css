@@ -1,10 +1,13 @@
-@font-face { font-family: Apercu; src: url('apercu-bold-webfont.tff'); } 
+@font-face { font-family: apercue; src: url('apercu-bold-webfont.ttf'); } 
 
 html * {
-    font-family: Apercu, sans-serif;
+    font-family: apercue;
 }
+
+
 h1 {
     Color: black;
+    
     margin-left: 20px;
 }
 ul {
@@ -19,6 +22,7 @@ a:link {
 }
 h2 {
     margin-left: 20px;
+
 }
 
 .mainimage {
