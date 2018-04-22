@@ -8,9 +8,19 @@ h1 {
     margin-left: 20px;
 }
 ul {
-    list-style-type: circle;  
+    list-style-type: none;  
    
 }
+li {
+    padding-left: 1em;
+    text-indent: -1em;
+}
+li:before { 
+    content: "☾";
+    padding-right: 5px;
+    
+}
+
 a:hover {
     color: darkgoldenrod
 }
