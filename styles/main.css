@@ -61,6 +61,11 @@ ul.topnav li.right {
     ul.topnav li {float:none}
 }
 
+@media screen and (max-width: 600px){
+    .blogtype {text-align: center;}
+
+}
+
 .birds {
     box-sizing:border-box;
     padding-top: 10px;
@@ -78,6 +83,7 @@ ul.topnav li.right {
     padding-top: 20px;
     border-bottom: 1px solid rgb(187, 187, 187);
     margin: 20px;
+    max-width:100%;
     
 }
 
